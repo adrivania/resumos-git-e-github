@@ -7,8 +7,8 @@ Repositório para armazenar resumos sobre Git e Github do curso versionamento de
 - [Github](https://github.com/dashboard)
 
 ## Resumo das aulas
-| Aulas | Resumos |
-|-------|---------|
+| Aulas 1 | Resumos | Aulas 2 | Resumos |
+|---------|---------|---------|---------|
 | Gravando alterações no Repositório local | Link |
 
 ´´´
